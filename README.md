@@ -13,7 +13,9 @@ virtualenv -p /usr/bin/python2.7 cbd-env
 source ~/cbd-env/bin/activate
 ```
 
-
+```bash
+sudo apt install tesseract-ocr
+```
 
 ## References
 
