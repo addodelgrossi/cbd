@@ -2,7 +2,7 @@
 
 ## Summary
 
-Issue #2 "Ao executar na mina maquina tenho erro de memory" was filed in this repository (`cbd` - Charlie Brown Decoder), but it describes a problem with a different project.
+Issue #2 "Ao executar na minha maquina tenho erro de memory" was filed in this repository (`cbd` - Charlie Brown Decoder), but it describes a problem with a different project.
 
 ## The Issue
 
