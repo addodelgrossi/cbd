@@ -1,5 +1,8 @@
-# cbd
-charlie brown decoder
+# cbd - Charlie Brown Decoder
+
+A Python-based CAPTCHA image decoder using OpenCV and image processing techniques.
+
+**Note:** This repository is for CAPTCHA decoding only. If you're looking for the Brazil Companies Database (CNPJ/SQLite), please see [addodelgrossi/bcd](https://github.com/addodelgrossi/bcd) instead.
 
 ## virtualenv / setup and configure
 
